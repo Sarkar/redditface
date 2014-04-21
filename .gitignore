@@ -24,3 +24,7 @@ proguard/
 
 # Mac stuff
 .DS_Store
+
+#.iml files
+.iml
+.idea
